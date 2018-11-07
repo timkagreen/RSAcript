@@ -21,6 +21,9 @@ public class Main {
         for (char c = 'А'; c <= 'я'; c++) {
             alphabet.add(c);
         }
+        for (char c = 'A'; c <= 'z'; c++){
+            alphabet.add(c);
+        }
         for (char c = '0'; c <= '9'; c++) {
             alphabet.add(c);
         }
